@@ -1,6 +1,6 @@
 public class GlassFalling {
-	public int max(int a,  int b){
-		return (a>b)?a:b;
+	public int max(int x,  int y){
+		return (x>y)?x:y;
 	}
 // Do not change the parameters!
 public int glassFallingRecur(int floors, int sheets) {
