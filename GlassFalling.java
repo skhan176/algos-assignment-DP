@@ -1,4 +1,5 @@
-//sakib  khan
+//GlassFalling.java
+// author: sakib  khan
 public class GlassFalling {
 	public int max(int x,  int y){
 		return (x>y)?x:y;
