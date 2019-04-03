@@ -1,5 +1,5 @@
 //RodCutting.java
-//sakib khan
+//author:sakib khan
 public class RodCutting {
 
   // Do not change the parameters!
