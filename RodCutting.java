@@ -1,6 +1,4 @@
-/**
- * Rod cutting problem described in Chapter 15 of textbook
- */
+//RodCutting.java
 //sakib khan
 public class RodCutting {
 
